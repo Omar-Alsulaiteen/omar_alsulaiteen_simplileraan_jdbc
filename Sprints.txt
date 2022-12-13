@@ -1,0 +1,31 @@
+Portal Project for Simplilearn.
+
+- There will be multiple functionalities for the admin
+	
+- The admin can manage teachers and assign them to subjects and classes
+
+- The admin can manage subjects and assign the subjects to classes
+
+- The admin can manage students
+
+- The admin can view the report of each class
+	* The report includes the teachers, the subjects and the students.
+
+Sprint
+
+- Features included in sprint 1:
+
+- GitHub repository to manage the project
+
+- Create a Java web app
+	* Add the following functionality
+		# There will be multiple functionalities for the admin
+	
+		# adding and removing teachers and assign them to subjects and classes
+
+		# adding and removing subjects and assign the subjects to classes
+
+		# adding and removing students
+
+		# Viewing the report of each class
+			$ The report includes the teachers, the subjects and the students.
